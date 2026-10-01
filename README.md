@@ -4,7 +4,7 @@ A machine learning forecasting project using approximately **48 million 2025 NYC
 
 The project builds an end-to-end time-series forecasting pipeline from raw TLC trip records through feature engineering, chronological model evaluation, external-factor analysis, and sequence-based deep learning. The final Random Forest reduced MAE by **49.8%** and RMSE by **55.8%** relative to a previous-week persistence baseline on held-out December 2025 data.
 
-### Live Demo
+### Interactive Demo
 
 [Launch the Interactive Streamlit App](https://nyc-taxi-demand-forecasting-gnkspgd2qzkzmdgwcj5crj.streamlit.app/)
 
