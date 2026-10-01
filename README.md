@@ -6,7 +6,7 @@ The project builds an end-to-end time-series forecasting pipeline from raw TLC t
 
 ### Interactive Demo
 
-[Launch the Interactive Streamlit App](https://nyc-taxi-demand-forecasting-gnkspgd2qzkzmdgwcj5crj.streamlit.app/)
+[Explore the Interactive Streamlit App](https://nyc-taxi-demand-forecasting-gnkspgd2qzkzmdgwcj5crj.streamlit.app/)
 
 ## Project Overview
 
