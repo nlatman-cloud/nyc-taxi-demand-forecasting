@@ -1,0 +1,9 @@
+numpy
+pandas==2.3.3
+pyarrow
+scikit-learn
+matplotlib
+seaborn
+meteostat
+tensorflow
+streamlit==1.64.0
